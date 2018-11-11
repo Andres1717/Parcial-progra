@@ -1,0 +1,6 @@
+echo "# Parcial-progra" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Andres1717/Parcial-progra.git
+git push -u origin master
